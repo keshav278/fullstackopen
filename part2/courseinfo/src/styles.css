@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+Button {
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 5px;
+}
